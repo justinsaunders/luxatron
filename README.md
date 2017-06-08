@@ -1,7 +1,4 @@
 # luxatron
-Luxatron (LXT) is a small and robust games engine designed for use on mobile platforms.
-Introduction
-============
 
 Luxatron (LXT) is a small and robust games engine designed for use on the mobile platform. It has been developed by a veteran game engine programmer and is designed to help programmers rather than get in their way.
 
