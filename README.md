@@ -12,16 +12,10 @@ Currently supported features:
 - Rendering bitmap fonts.
 - Sound support.
 - Built in CPU profiling and memory leak checking.
-- Maths library
+- NEON accelerated Maths library
 - Binary serialization library (through Archive & Buffer class)
 - Unit tests that run on ARM, Intel and PPC platforms.
 
-Upcoming features for first release:
-- Batched mesh rendering (to minimize state change costs).
-- More optimal vertex formats.
-- ARM VFP math acceleration.
-- 2D GUI rendering.
-- Particle rendering.
 
 On the code
 ===========
